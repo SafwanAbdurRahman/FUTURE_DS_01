@@ -1,5 +1,3 @@
-# FUTURE_DS_01
-Power BI dashboard providing insights into superstore sales data, including KPIs, sales trends, and breakdown by category, sub-category, and region, Developed for FUTUTRE INTERNS -INTERNSHIP TASK 1
 # FUTURE_DS_01 
 Power BI Dashboard: Superstore Sales Analysis
 
@@ -54,7 +52,4 @@ This dashboard completes the task requirements for Task 01. Important aspects in
 * Including interactive filtering functionality.
 * Organizing and presenting the dashboard effectively.
 
- 7. Contact
 
-Safwan Abdur Rahman
-https://www.linkedin.com/in/safwan-rahman-734b5b292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
